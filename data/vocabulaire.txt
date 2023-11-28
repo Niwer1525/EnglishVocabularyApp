@@ -1,0 +1,547 @@
+and, et
+black, noir
+cat, chat
+daughter, fille
+from, de
+he, il
+he comes, il vient
+he is, il est
+I, je
+I am, je suis
+I come, je viens
+I live, j’habite
+in, dans/en
+I work, je travaille
+married to, marié avec
+name, nom/prénom
+son, fils
+teacher, professeur
+and, et
+black, noir
+cat, chat
+daughter, fille
+from, de
+he, il
+he comes, il vient
+he is, il est
+I, je
+I am, je suis
+I come, je viens
+I live, j’habite
+in, dans/en
+I work, je travaille
+married to, marié avec
+name, nom/prénom
+son, fils
+teacher, professeur
+aunt, tante
+brother, frère
+child, enfant
+cousin, cousin
+daughter, fille
+father, père
+grandchildren, petits-enfants
+granddaughter, petite-fille
+grandfather, grand-père
+grandmother, grand-mère
+grandparents, grands-parents
+grandson, petit-fils
+great-grandparents, arrière-grands-parents
+brother-in-law, beau-frère
+mother, mère
+nephew, neveu
+niece, nièce
+parents, parents (père et mère)
+relatives, parents (parentèle)
+sister, sœur
+son, fils
+uncle, oncle
+to ask, demander
+to call, appeler
+to clean, nettoyer
+to come, venir
+to drink, boire
+to eat, manger
+to end, finir
+to help, aider
+to invite, inviter
+to live, habiter/vivre
+to lose, perdre
+to love, aimer
+to need, avoir besoin de
+to play, jouer
+to speak, parler
+to stay, rester
+to try, essayer
+to use, utiliser
+to want, vouloir
+to work, travailler
+armchair, fauteuil
+basket, panier
+bookcase, bibliothèque / armoire à livres
+ceiling, plafond
+chair, chaise
+comfortable, confortable
+curtain, rideau
+desk, bureau (table)
+footrest, repose-pieds
+high, haut
+lamp, lampe
+left, gauche
+light, lumière
+middle, milieu
+picture, photo
+printer, imprimante
+reading, lecture
+right, droite
+room, chambre / pièce
+rug, tapis
+shelf, étagère
+soon, bientôt
+speaker, haut-parleur
+wall, mur
+wardrobe, armoire
+waste basket, corbeille
+wide, large
+attic, grenier
+balcony, balcon
+bathroom, salle de bains
+cellar, sous-sol
+cave chimney, cheminée (sur le toit)
+fireplace, cheminée (intérieure)
+corridor, couloir
+dining room, salle à manger
+door, porte
+driveway, allée
+fence, barrière
+furniture, mobilier
+garage, garage
+garden, jardin
+gate, portail
+hall, entrée
+kitchen, cuisine
+laundry, buanderie
+letterbox, boîte aux lettres
+living room, salon
+office, bureau
+path, allée
+terrace, terrasse
+roof, toit
+stairs, escalier
+window, fenêtre
+yard, cour
+as, comme
+cold, rhume
+well, bien
+instead, en revanche
+to meet, rencontrer (pour la première fois)
+nice, bien, gentil
+to see again, revoir
+too, aussi
+American, américain
+Austria, Autriche
+Austrian, autrichien
+Belgian, belge
+Belgium, Belgique
+Brazil, Brésil
+Brazilian, brésilien
+British, britannique
+Danish, danois
+Denmark, Danemark
+England, Angleterre
+English, anglais
+France, France
+French, français
+German, allemand
+Germany, Allemagne
+Greece, Grèce
+Greek, grec
+India, Inde
+Indian, indien
+Israel, Israël
+Israeli, israélien
+Italian, italien
+Italy, Italie
+Mexican, mexicain
+Mexico, Mexique
+Moroccan, marocain
+Morocco, Maroc
+Poland, Pologne
+Polish, polonais
+Portugal, Portugal
+Russia, Russie
+Russian, russe
+Spain, Espagne
+Spanish, espagnol
+Sweden, Suède
+Swedish, suédois
+Swiss, suisse
+Switzerland, Suisse
+UK, Royaume-Uni
+USA, États-Unis
+about, à propos de / sur
+afternoon, après-midi
+artwork, œuvre d’art
+to babysit / baby-sit, faire le / la baby-sitter
+babysitter, baby-sitter
+bartender, barman
+bottle, bouteille
+exhibit, exposition
+full-price, plein tarif
+glass, verre
+job, travail
+to learn, apprendre
+life, vie
+to lose, perdre
+paint, peinture
+paintbrush, pinceau
+to plan, programmer
+plastic cup, verre en plastique
+reduced-price, tarif réduit
+to remark, faire observer
+specifically, précisément
+straw, paille
+technique, technique
+value, valeur
+water, eau
+work, travail / œuvre
+beige, beige
+black, noir
+blue, bleu
+blue green / turquoise, bleu-vert / turquoise
+brown, marron
+charcoal gray (US), anthracite
+cobalt blue, bleu de cobalt
+copper, cuivre
+cream, crème
+dark gray, gris foncé
+emerald green, vert émeraude
+gray, gris
+green, vert
+light blue, bleu
+mustard, moutarde
+navy, bleu marine
+olive green, vert olive
+orange, orange
+pink, rose
+plum, prune
+purple, violet
+red, rouge
+rust, rouille
+white, blanc
+yellow, jaune
+actuelle, en fait
+to answer, répondre
+to be afraid of, craindre
+to beg, supplier
+can, pouvoir
+capability, capacité
+cousin, cousin
+environment, environnement
+to get, prendre
+to host, héberger
+to laugh, rire
+to like, aimer
+mom, maman
+narwhal, narval
+now, maintenant
+to protude, dépasser
+sensory, sensoriel
+setting, position, règlage
+skeleton, squelette
+some, des, quelques
+specimen, spécimen
+tooth, dent
+tusk, croc / défense
+whale, baleine
+wife, femme (épouse)
+bear, ours
+cow, vache
+crab, crabe
+deer, cerf
+duck, canard
+fish, poisson
+fox, renard
+goat, chèvre
+hedgehog, hérisson
+hermit crab, bernard-l’hermite
+horse, cheval
+jelly fish, méduse
+killer whale, orque
+monkey, singe
+octopus, poulpe
+peacock, paon
+rabbit, lapin
+seahorse, hippocampe
+shark, requin
+sheep, mouton
+snake, serpent
+starfish, étoile de mer
+turkey, dinde
+turtle, tortue
+wolf, loup
+at, à / à la / au / aux
+breakfast, petit-déjeuner
+cab / taxi, taxi
+clock, horloge
+dad, papa
+dinner, dîner
+flight, vol
+home, maison, chez-soi
+house, maison
+hug, embrassade
+to leave, partir
+lunch, déjeuner
+many, beaucoup
+mom, maman
+security, sécurité
+so, ainsi, donc
+supper, souper
+through, à travers
+watch, montre-bracelet
+with, avec
+above, au-dessus (de)
+across, de l’autre côté (en ligne droite)
+against, contre
+along, le long (de)
+among, parmi
+around, autour de
+behind, derrière
+below, au-dessous (de)
+between, entre
+beyond, au-delà de
+far from, loin de
+across, à travers
+after, après
+against, contre
+along, le long de
+around, autour
+as far as, jusqu’à
+down, en bas
+from, de
+into, dans
+off , de
+out, hors de
+over, au-dessus de
+through, à travers
+to, à
+towards, vers
+in, dans
+in front of, devant
+in the middle, au milieu de / au centre de
+inside, dans / à l’intérieur de / en
+by, près (de)
+next to, à côté de
+on, sur
+opposite, en face / en vis-à-vis
+outside, hors (de) / à l’extérieur
+over, au-dessus de / sur
+under, sous
+airport, aéroport
+arrival, arrivée
+to arrive, arriver
+bike, bicyclette / vélo
+bus, bus
+car, voiture
+departure, départ
+to drive, conduire
+to fly, voler
+foot, pied
+harbor, port
+highway, autoroute
+horse, cheval
+to leave, partir
+motocycle, moto
+plane, avion
+to ride, aller
+road, route
+to sail, naviguer
+ship, bateau
+ticket, billet
+time, horaire
+train, train
+to walk, marcher
+to chat with friends, bavarder entre amis
+to collect stamps, collectionner les timbres
+to cook, faire la cuisine
+crossword, mots croisés
+to dance, danser
+detective stories, romans policiers
+to do sports, faire du sport
+to draw, dessiner
+free, libre
+gardening, jardiner
+to go shopping, faire du shopping
+to go skateboarding, faire du skateboard
+to go to the movies, aller au cinéma
+to go to the theater, aller au théâtre
+to hang out with friends, sortir avec des amis
+to listen to music, écouter de la musique
+movie, film
+to paint, peindre
+to play chess, jouer aux échecs
+to play computer, jouer avec
+l’ordinateur, à des jeux vidéo
+to read, lire
+time, temps / heure
+to travel, voyager
+to walk the dog, promener le chien
+to watch television / tv, regarder la télévision / la télé
+way, route
+American football, football américain
+ball, balle / ballon
+baseball bat, batte de baseball
+basketball, basket-ball
+bathing suit, maillot de bain
+beach, plage
+bicycle / bike, bicyclette / vélo
+boat, bateau
+to catch, attraper
+to climb, grimper / escalader
+coach, entraîneur
+competition, compétition
+first, premier
+to fish, pêcher
+goal, but
+gym, gymnase
+to ice-skate, faire du patin à glace
+to kick, frapper
+luck, chance
+match, match
+member, membre
+to play, jouer
+player, joueur
+pool, piscine
+practice, entraînement
+to practice, s’entraîner
+prize, prix (récompense)
+to run, courir
+football, foot-ball
+to skate, patiner
+ski, ski
+to ski, faire du ski / skier
+my, mon/ ma/ mes
+your, ton/ ta/ tes
+his, son/ sa/ ses (à lui)
+her, son/ sa/ ses (à elle)
+its, son/ sa/ ses (à lui ou à elle en tant que chose ou animal)
+our, notre/ nos
+your, votre/ vos
+their, leur/ leurs
+mine, le mien, la mienne, les miens, les miennes
+yours, le tien, la tienne, les tiens, les tiennes
+his, le sien, la sienne, les siens, les siennes (à lui)
+hers, le sien, la sienne, les siens, les siennes (à elle)
+its, le sien, la sienne, les siens, les siennes (à elle ou à lui en tant que chose ou animal)
+ours, le nôtre, la nôtre, les nôtres
+yours, le vôtre, la vôtre, les vôtres
+theirs, les leurs
+book, livre
+boy, garçon
+to buy, acheter
+café, café / bar
+(credit) card, carte (de crédit)
+cash, espèces
+cash register, caisse
+cinnamon, cannelle
+cinnamon roll, gâteau américain à la cannelle
+city, ville
+clothes, vêtements
+coffee, café
+cup, tasse
+dress, robe
+girl, fille
+mall, centre commercial
+museum, musée
+new, nouveau
+to see, voir
+to sell, vendre
+shop, boutique
+still, encore
+ticket, billet
+tour, tour
+train, train
+travel agency, agence de voyages
+apartment complex, résidence
+bakery, boulangerie
+bank, banque
+building, bâtiment
+bus stop, arrêt de bus
+church, église
+city hall, hôtel de ville
+crossing, crossroad,  police station, poste de police
+intersection, carrefour
+department store, grand magasin
+fire station, caserne des pompiers
+florist’s shop, fleuriste
+gas station, station-service
+grocery store, épicerie
+hairdresser, coiffeur
+hospital, hôpital
+library, bibliothèque
+park, parc
+parking lot, parking
+pet store, animalerie
+post office, poste
+shoe store, magasin de chaussures
+skyscraper, gratte-ciel
+station, gare
+supermarket, supermarché
+toy store, magasin de jouets
+me, me, moi
+you, te, toi
+him, her, le, la, lui, elle
+us, nous
+you, vous
+them, les, leur
+art, art
+bell, cloche
+blackboard, tableau noir
+cafeteria, cafétéria
+calculator, calculatrice
+chair, siège
+chalk, craie
+desk, pupitre
+eraser, gomme
+essay, devoir écrit
+homework, devoirs à la maison
+microscope, microscope
+notebook, cahier
+oral test, oral
+pen, stylo
+pencil, crayon
+pencil case, plumier / trousse
+to review, réviser
+ruler, règle
+school, école
+school bag, cartable
+scissors, ciseaux
+to study, étudier
+subject, sujet
+written test, examen écrit
+to apply to, faire une demande à
+to attend (lessons), assister à (des cours)
+course, cours
+department / faculty, département / faculté
+enroll, s’inscrire à
+exam, examen
+field, champ / domaine
+grad, diplômé
+grad student, étudiant en master
+to grade, noter
+graduate, diplômé
+to graduate, avoir son diplôme
+law, droit
+major, matière principale
+to major in, se spécialiser en / choisir comme matière principale
+maths, mathématiques
+minor, matière secondaire
+to minor in, choisir comme matière secondaire
+paper, examen sur table, article universitaire
+professor, professeur
+scholarship, bourse d’étude
+substitute, remplacer
+teacher’s assistant, assistant
+tenure, charge
+undergraduate, étudiant de premier cycle
+university, université
