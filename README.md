@@ -1,4 +1,4 @@
-## HELMo English Vocabulary Game
+## School English Vocabulary Game
 
 A classmate made a program using what they have seen in class. But his code was... hum horrible and it was in the console.
 So I decided to make it as a game using the same concepts but with a different approach.
